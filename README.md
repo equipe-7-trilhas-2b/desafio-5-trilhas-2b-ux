@@ -1,32 +1,49 @@
-# Projeto UX - Tema Queimadas
+# Projeto UX - Combate às Queimadas no Maranhão
 
-Este repositório reúne os artefatos produzidos na trilha de UX, focados no desenvolvimento de soluções para o tema queimadas. O objetivo é mapear necessidades, criar personas, validar insights e construir protótipos que possam contribuir para o desenvolvimento de um produto digital relevante.
+Este repositório reúne os artefatos produzidos ao longo do processo de design centrado no usuário, focado na criação de uma solução digital para o combate às queimadas no Maranhão. O projeto segue uma metodologia estruturada que parte da pesquisa inicial, passa pela compreensão das necessidades dos usuários, até chegar na prototipagem interativa, garantindo que o produto atenda às demandas reais.
 
-## Artefatos Disponíveis
+## Conteúdo do Repositório
 
-Na pasta [`assets`](./assets) você encontrará os seguintes documentos que fundamentam o projeto:
+Na pasta [`assets`](./assets) estão os documentos que fundamentam o desenvolvimento da solução:
 
-- **Desk research.pdf**  
-  Pesquisa documental sobre o tema queimadas, contendo análises de contexto, dados relevantes e referências iniciais.
+- **Pesquisa Contextual (Desk Research)**  
+  Levantamento documental sobre o cenário das queimadas, seus impactos sociais, ambientais e econômicos, além das causas e desafios enfrentados.
 
-- **Insights pesquisa com usuários.pdf**  
-  Síntese das principais descobertas obtidas a partir de entrevistas e/ou pesquisas com usuários, identificando dores, necessidades e comportamentos.
+- **Matriz CSD (Certezas, Suposições e Dúvidas)**  
+  Organização das informações e hipóteses coletadas para guiar as etapas seguintes, especialmente a pesquisa com usuários.
 
-- **Matriz CSD.pdf**  
-  Matriz Certezas, Suposições e Dúvidas, usada para organizar hipóteses e priorizar validações futuras.
+- **Resultados da Pesquisa Qualitativa**  
+  Principais insights extraídos do contato direto com usuários, que evidenciam comportamentos, necessidades e barreiras relativas ao tema.
 
-- **Persona.pdf**  
-  Representação fictícia de um usuário típico, construída a partir dos dados coletados, para guiar decisões de design centradas no usuário.
+- **Perfil de Usuário (Persona)**  
+  Representação semi-fictícia que simboliza o público-alvo, orientando as decisões de design para melhor atender suas expectativas.
 
-- **Wireframes.pdf**  
-  Esboços das telas principais do produto, mostrando a estrutura e fluxo da interface planejada.
+- **Esboços de Interface (Wireframes)**  
+  Primeiras versões visuais da estrutura do produto, definindo a navegação e disposição dos elementos.
 
 ## Protótipo Interativo
 
-O protótipo interativo do produto está disponível na plataforma Figma, acessível pelo link abaixo. Nele é possível navegar pelas telas desenvolvidas, visualizar fluxos e interações propostas:
+O protótipo desenvolvido no Figma permite explorar a experiência do usuário e validar fluxos e funcionalidades planejadas.  
+[Acesse o protótipo aqui](https://www.figma.com/design/y1N1nmFngpqHLNwMBhav1O/Untitled?node-id=82-183&t=W52yj7KedbyhGX5A-1)
 
-[🔗 Acessar Protótipo no Figma](https://www.figma.com/design/y1N1nmFngpqHLNwMBhav1O/Untitled?node-id=82-183&t=W52yj7KedbyhGX5A-1)
+## Metodologia de Trabalho
 
-## Como Contribuir
+O desenvolvimento seguiu as seguintes etapas:
 
-Este projeto está aberto para contribuições, sugestões e melhorias. Para contribuir, faça um fork deste repositório, crie uma branch com a sua feature ou correção, e envie um pull request.
+1. **Pesquisa Inicial:** Coleta de dados secundários para entender o contexto e impactos das queimadas no Maranhão.
+
+2. **Planejamento Estratégico:** Organização das informações em uma Matriz CSD para mapear o conhecimento disponível, hipóteses e lacunas.
+
+3. **Pesquisa com Usuários:** Aplicação de formulários e entrevistas para capturar percepções e necessidades reais.
+
+4. **Análise dos Dados:** Identificação de insights que fundamentam as decisões de design.
+
+5. **Construção da Persona:** Criação do perfil representativo para manter o foco nas necessidades do público.
+
+6. **Desenvolvimento dos Wireframes:** Desenho da estrutura básica da interface e fluxos de navegação.
+
+7. **Protótipo Visual e Interativo:** Refinamento do design no Figma, possibilitando testes e validações.
+
+## Contribuições
+
+Este projeto é aberto a contribuições. Para colaborar, faça um fork, crie uma branch para sua alteração e envie um pull request com descrição clara das mudanças.
